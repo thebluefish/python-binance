@@ -22,7 +22,7 @@ Welcome to python-binance v0.6.9
 
 This is an unofficial Python wrapper for the `Binance exchange REST API v1/3 <https://github.com/binance-exchange/binance-official-api-docs>`_. I am in no way affiliated with Binance, use at your own risk.
 
-If you came here looking for the `Binance exchange <https://www.binance.com/?ref=10099792>`_ to purchase cryptocurrencies, then `go here <https://www.binance.com/?ref=10099792>`_. If you want to automate interactions with Binance stick around.
+If you came here looking for the `Binance exchange <https://www.binance.com/>`_ to purchase cryptocurrencies, then `go here <https://www.binance.com/>`_. If you want to automate interactions with Binance stick around.
 
 Source code
   https://github.com/sammchardy/python-binance
@@ -54,7 +54,7 @@ Features
 Quick Start
 -----------
 
-`Register an account with Binance <https://www.binance.com/register.html?ref=10099792>`_.
+`Register an account with Binance <https://www.binance.com/register.html>`_.
 
 `Generate an API Key <https://www.binance.com/userCenter/createApi.html>`_ and assign relevant permissions.
 
@@ -129,25 +129,16 @@ Quick Start
 
 For more `check out the documentation <https://python-binance.readthedocs.io/en/latest/>`_.
 
-Donate
-------
-
-If this library helped you out feel free to donate.
-
-- ETH: 0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70
-- LTC: LPC5vw9ajR1YndE1hYVeo3kJ9LdHjcRCUZ
-- NEO: AVJB4ZgN7VgSUtArCt94y7ZYT6d5NDfpBo
-- BTC: 1Dknp6L6oRZrHDECRedihPzx2sSfmvEBys
 
 Other Exchanges
 ---------------
 
-If you use `Quoinex <https://accounts.quoinex.com/sign-up?affiliate=PAxghztC67615>`_
-or `Qryptos <https://accounts.qryptos.com/sign-up?affiliate=PAxghztC67615>`_ check out my `python-quoine <https://github.com/sammchardy/python-quoine>`_ library.
+If you use `Quoinex <https://accounts.quoinex.com/sign-up>`_
+or `Qryptos <https://accounts.qryptos.com/sign-up>`_ check out my `python-quoine <https://github.com/sammchardy/python-quoine>`_ library.
 
-If you use `Kucoin <https://www.kucoin.com/#/?r=E42cWB>`_ check out my `python-kucoin <https://github.com/sammchardy/python-kucoin>`_ library.
+If you use `Kucoin <https://www.kucoin.com/#/>`_ check out my `python-kucoin <https://github.com/sammchardy/python-kucoin>`_ library.
 
-If you use `Allcoin <https://www.allcoin.com/Account/RegisterByPhoneNumber/?InviteCode=MTQ2OTk4MDgwMDEzNDczMQ==>`_ check out my `python-allucoin <https://github.com/sammchardy/python-allcoin>`_ library.
+If you use `Allcoin <https://www.allcoin.com/>`_ check out my `python-allucoin <https://github.com/sammchardy/python-allcoin>`_ library.
 
 If you use `IDEX <https://idex.market>`_ check out my `python-idex <https://github.com/sammchardy/python-idex>`_ library.
 
